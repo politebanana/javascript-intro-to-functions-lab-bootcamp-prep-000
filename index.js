@@ -1,7 +1,4 @@
 
-/*  shout(string) receives one argument and returns it in all caps:
-    ReferenceError: shout is not defined */
-function shout(string) {
   return string.toUpperCase()
 }
 
